@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+ 
+
+/*
+        NO CSS ! CSS in JS :)  => 
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#cadrpg {
+    width:600px;
+    margin:0 auto;
+    border:0;
+    overflow:hidden;
+}
+#newshr { 
+    position:relative;
+    width:580px;
+    height:20px;
+    overflow:hidden;
+    color:inherit;
+    background:#FFFFFF ;
+    border:1px inset white; 
+    border-radius: 10px;
+    background-color: rgb(191, 252, 191);
+    padding-bottom: 5px;
+    border-width: 3px;
+}
+#defile {
+    position:absolute;
+    margin-top:1px;
+    background-color:transparent; 
+    color:black;
+    font-weight: 600;
+    text-shadow: 1px 1px green;
+
+}

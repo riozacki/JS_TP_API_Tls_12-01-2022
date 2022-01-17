@@ -1,0 +1,2120 @@
+{
+    "nhits": 3249,
+    "parameters": {
+        "dataset": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+        "rows": 10,
+        "start": 0,
+        "facet": [
+            "nom_scientifique",
+            "nom_commun",
+            "famille",
+            "date"
+        ],
+        "format": "json",
+        "timezone": "UTC"
+    },
+    "records": [
+        {
+            "datasetid": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+            "recordid": "0b090498ea14f094fb9650a64dd4954df3fa3f38",
+            "fields": {
+                "herbier_mhnt": "oui",
+                "carpotheque_mhnt": "oui",
+                "famille": "Sapindaceae",
+                "date": "2019-09-19",
+                "abondance": "PC",
+                "nom_scientifique": "Acer pseudoplatanus",
+                "url": "https://eu.ftp.opendatasoft.com/toulouse-metropole/flore/Acer_pseudoplatanus.jpg",
+                "dates_et_lieux_d_observations": "Le 19/09/2019, un pied le long d\u2019une goutti\u00e8re en bas de l\u2019avenue Camille Pujol",
+                "credits": "Boris PRESSEQ / Mus\u00e9um de Toulouse",
+                "image": "Acer_pseudoplatanus.jpg",
+                "nom_commun": "Erable sycomore"
+            },
+            "record_timestamp": "2021-05-04T08:30:49.022000+00:00"
+        },
+        {
+            "datasetid": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+            "recordid": "98fda89cbd136e5bdf2f93148cce22d2c2b9c6e0",
+            "fields": {
+                "herbier_mhnt": "oui",
+                "carpotheque_mhnt": "non",
+                "famille": "Asteraceae",
+                "nom_occitan": "F\u00e9nouilheto, herbo de pic",
+                "abondance": "C",
+                "nom_scientifique": "Achillea millefolium",
+                "url": "https://eu.ftp.opendatasoft.com/toulouse-metropole/flore/Achillea_millefolium.jpg",
+                "dates_et_lieux_d_observations": "Fleurs le 28/05/2019, friche entre p\u00e9riph\u00e9rique sud/voie ferr\u00e9e/Gare de bus Tiss\u00e9o/h\u00f4pital Marchant",
+                "credits": "Boris PRESSEQ / Mus\u00e9um de Toulouse",
+                "image": "Achillea_millefolium.jpg",
+                "nom_commun": "Achill\u00e9e mille-feuille, herbe aux charpentiers"
+            },
+            "record_timestamp": "2021-05-04T08:30:49.022000+00:00"
+        },
+        {
+            "datasetid": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+            "recordid": "0e3836dc23e9914e5373b1a4cbc31874896a82ba",
+            "fields": {
+                "herbier_mhnt": "oui",
+                "carpotheque_mhnt": "oui",
+                "famille": "Malvaceae",
+                "statut": "Exo",
+                "date": "2020-08-14",
+                "abondance": "PC",
+                "nom_scientifique": "Alcea rosea",
+                "url": "https://eu.ftp.opendatasoft.com/toulouse-metropole/flore/Alcea_rosea.jpg",
+                "dates_et_lieux_d_observations": "Le 14/08/2020, un pied sur le trottoir en face du 6 rue Riquet",
+                "credits": "Boris PRESSEQ / Mus\u00e9um de Toulouse",
+                "image": "Alcea_rosea.jpg",
+                "nom_commun": "Rose-tr\u00e9mi\u00e8re"
+            },
+            "record_timestamp": "2021-05-04T08:30:49.022000+00:00"
+        },
+        {
+            "datasetid": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+            "recordid": "5a6acce283494317ada0e7aa2d69adedb426f623",
+            "fields": {
+                "herbier_mhnt": "oui",
+                "carpotheque_mhnt": "non",
+                "famille": "Amaryllidaceae",
+                "statut": "Exo",
+                "abondance": "C",
+                "nom_scientifique": "Allium neapolitanum",
+                "url": "https://eu.ftp.opendatasoft.com/toulouse-metropole/flore/Allium_neapolitanum.jpg",
+                "dates_et_lieux_d_observations": "Fleurs le 24/03/2011, bord de route all\u00e9es de Brienne",
+                "credits": "Boris PRESSEQ / Mus\u00e9um de Toulouse",
+                "image": "Allium_neapolitanum.jpg",
+                "nom_commun": "Ail de Naples"
+            },
+            "record_timestamp": "2021-05-04T08:30:49.022000+00:00"
+        },
+        {
+            "datasetid": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+            "recordid": "45b58e23da91b83d9597572f6f0b30570f836a53",
+            "fields": {
+                "herbier_mhnt": "oui",
+                "carpotheque_mhnt": "non",
+                "famille": "Amaryllidaceae",
+                "nom_occitan": "Aillol",
+                "abondance": "PC",
+                "nom_scientifique": "Allium vineale",
+                "url": "https://eu.ftp.opendatasoft.com/toulouse-metropole/flore/Allium_vineale.jpg",
+                "dates_et_lieux_d_observations": "Bulbilles le 22/05/2011, friche rue Ernest Renan",
+                "credits": "Boris PRESSEQ / Mus\u00e9um de Toulouse",
+                "image": "Allium_vineale.jpg",
+                "nom_commun": "Ail des vignes"
+            },
+            "record_timestamp": "2021-05-04T08:30:49.022000+00:00"
+        },
+        {
+            "datasetid": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+            "recordid": "e303da8ff2d7e516523ebd0e905da9f026ddce66",
+            "fields": {
+                "herbier_mhnt": "oui",
+                "carpotheque_mhnt": "non",
+                "famille": "Asteraceae",
+                "statut": "Exo",
+                "abondance": "R",
+                "nom_scientifique": "Ambrosia artemisifolia",
+                "dates_et_lieux_d_observations": "Un pied le 13/10/2020, trottoir rue Joachim Genart",
+                "nom_commun": "Ambroisie"
+            },
+            "record_timestamp": "2021-05-04T08:30:49.022000+00:00"
+        },
+        {
+            "datasetid": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+            "recordid": "3ea54088845bee7f9f7461fc91ddf6550138f48a",
+            "fields": {
+                "herbier_mhnt": "oui",
+                "carpotheque_mhnt": "non",
+                "famille": "Apiaceae",
+                "nom_occitan": "Cap blanc",
+                "abondance": "PC",
+                "nom_scientifique": "Ammi majus",
+                "url": "https://eu.ftp.opendatasoft.com/toulouse-metropole/flore/Ammi_majus.jpg",
+                "dates_et_lieux_d_observations": "Fleurs le 17/06/2008 Maurine pr\u00e8s du parking Jardins du Mus\u00e9um",
+                "credits": "Boris PRESSEQ / Mus\u00e9um de Toulouse",
+                "image": "Ammi_majus.jpg",
+                "nom_commun": "Ammi \u00e9lev\u00e9"
+            },
+            "record_timestamp": "2021-05-04T08:30:49.022000+00:00"
+        },
+        {
+            "datasetid": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+            "recordid": "6a38976aa81e4724a77e722551c3932995911f4c",
+            "fields": {
+                "herbier_mhnt": "oui",
+                "carpotheque_mhnt": "non",
+                "famille": "Orchidaceae",
+                "nom_occitan": "Moussus",
+                "abondance": "C",
+                "nom_scientifique": "Anacamptis pyramidalis",
+                "url": "https://eu.ftp.opendatasoft.com/toulouse-metropole/flore/Anacamptis_pyramidalis.jpg",
+                "dates_et_lieux_d_observations": "Fleurs le 22/05/2011, talus bord de route, quartier Ginestous",
+                "credits": "Boris PRESSEQ / Mus\u00e9um de Toulouse",
+                "image": "Anacamptis_pyramidalis.jpg",
+                "nom_commun": "Orchis pyramidal"
+            },
+            "record_timestamp": "2021-05-04T08:30:49.022000+00:00"
+        },
+        {
+            "datasetid": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+            "recordid": "96141701f7bad83fdaa2b16182c21ba64ab8be27",
+            "fields": {
+                "herbier_mhnt": "oui",
+                "carpotheque_mhnt": "non",
+                "famille": "Orchidaceae",
+                "nom_occitan": "Moussus",
+                "abondance": "C",
+                "nom_scientifique": "Anacamptis pyramidalis",
+                "url": "https://eu.ftp.opendatasoft.com/toulouse-metropole/flore/Anacamptis_pyramidalis.jpg",
+                "dates_et_lieux_d_observations": "Fleurs le 10/06/2013, friche rase bord de rocade au niveau de la Cit\u00e9 de l'espace",
+                "credits": "Boris PRESSEQ / Mus\u00e9um de Toulouse",
+                "image": "Anacamptis_pyramidalis.jpg",
+                "nom_commun": "Orchis pyramidal"
+            },
+            "record_timestamp": "2021-05-04T08:30:49.022000+00:00"
+        },
+        {
+            "datasetid": "inventaire-de-la-flore-sauvage-en-milieu-urbain-ville-de-toulouse",
+            "recordid": "eac1d9702a8a82e03a4ecde7061d41137320137a",
+            "fields": {
+                "herbier_mhnt": "oui",
+                "carpotheque_mhnt": "non",
+                "famille": "Orchidaceae",
+                "nom_occitan": "Moussus",
+                "abondance": "C",
+                "nom_scientifique": "Anacamptis pyramidalis",
+                "url": "https://eu.ftp.opendatasoft.com/toulouse-metropole/flore/Anacamptis_pyramidalis.jpg",
+                "dates_et_lieux_d_observations": "Fleurs le 15/05/2017, friche rive droite du Canal du Midi \u00e0 la hauteur de la cale du Pont des Demoiselles",
+                "credits": "Boris PRESSEQ / Mus\u00e9um de Toulouse",
+                "image": "Anacamptis_pyramidalis.jpg",
+                "nom_commun": "Orchis pyramidal"
+            },
+            "record_timestamp": "2021-05-04T08:30:49.022000+00:00"
+        }
+    ],
+    "facet_groups": [
+        {
+            "name": "nom_scientifique",
+            "facets": [
+                {
+                    "name": "Anchusa arvensis",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Anchusa arvensis"
+                },
+                {
+                    "name": "Asplenium adiantum-nigrum",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Asplenium adiantum-nigrum"
+                },
+                {
+                    "name": "Asplenium scolopendrium",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Asplenium scolopendrium"
+                },
+                {
+                    "name": "Asplenium trichomanes",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Asplenium trichomanes"
+                },
+                {
+                    "name": "Centranthus ruber",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Centranthus ruber"
+                },
+                {
+                    "name": "Erodium cicutarium",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Erodium cicutarium"
+                },
+                {
+                    "name": "Himantoglossum hircinum",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Himantoglossum hircinum"
+                },
+                {
+                    "name": "Lotus corniculatus",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Lotus corniculatus"
+                },
+                {
+                    "name": "Mercurialis annua",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Mercurialis annua"
+                },
+                {
+                    "name": "Polypodium interjectum",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Polypodium interjectum"
+                },
+                {
+                    "name": "Reseda phyteuma",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Reseda phyteuma"
+                },
+                {
+                    "name": "Sedum palmeri",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Sedum palmeri"
+                },
+                {
+                    "name": "Silene latifolia",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Silene latifolia"
+                },
+                {
+                    "name": "Verbascum densiflorum",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Verbascum densiflorum"
+                },
+                {
+                    "name": "Allium neapolitanum",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Allium neapolitanum"
+                },
+                {
+                    "name": "Foeniculum vulgare",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Foeniculum vulgare"
+                },
+                {
+                    "name": "Gladiolus segetum",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Gladiolus segetum"
+                },
+                {
+                    "name": "Lamium amplexicaule",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Lamium amplexicaule"
+                },
+                {
+                    "name": "Mirabilis jalapa",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Mirabilis jalapa"
+                },
+                {
+                    "name": "Ornithogalum umbellatum",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Ornithogalum umbellatum"
+                },
+                {
+                    "name": "Sambucus nigra",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Sambucus nigra"
+                },
+                {
+                    "name": "Viola odorata",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Viola odorata"
+                },
+                {
+                    "name": "Anacamptis pyramidalis",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Anacamptis pyramidalis"
+                },
+                {
+                    "name": "Antirrhinum majus",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Antirrhinum majus"
+                },
+                {
+                    "name": "Borrago officinalis",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Borrago officinalis"
+                },
+                {
+                    "name": "Carduus pycnocephalus",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Carduus pycnocephalus"
+                },
+                {
+                    "name": "Cercis siliquastrum",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Cercis siliquastrum"
+                },
+                {
+                    "name": "Clinopodium nepeta",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Clinopodium nepeta"
+                },
+                {
+                    "name": "Eryngium campestre",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Eryngium campestre"
+                },
+                {
+                    "name": "Ficus carica",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Ficus carica"
+                },
+                {
+                    "name": "Galega officinalis",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Galega officinalis"
+                },
+                {
+                    "name": "Hypericum perforatum",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Hypericum perforatum"
+                },
+                {
+                    "name": "Lythrum salicaria",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Lythrum salicaria"
+                },
+                {
+                    "name": "Muscari neglectum",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Muscari neglectum"
+                },
+                {
+                    "name": "Paulownia tomentosa",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Paulownia tomentosa"
+                },
+                {
+                    "name": "Phytolacca americana",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Phytolacca americana"
+                },
+                {
+                    "name": "Prunus dulcis",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Prunus dulcis"
+                },
+                {
+                    "name": "Robinia pseudoacacia",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Robinia pseudoacacia"
+                },
+                {
+                    "name": "Sisymbrium irio",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Sisymbrium irio"
+                },
+                {
+                    "name": "Spergularia rubra",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Spergularia rubra"
+                },
+                {
+                    "name": "Trifolium repens",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Trifolium repens"
+                },
+                {
+                    "name": "Umbilicus rupestris",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Umbilicus rupestris"
+                },
+                {
+                    "name": "Urospermum dalechampii",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Urospermum dalechampii"
+                },
+                {
+                    "name": "Veronica hederifolia",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Veronica hederifolia"
+                },
+                {
+                    "name": "Araujia sericifera",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Araujia sericifera"
+                },
+                {
+                    "name": "Buddleja davidii",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Buddleja davidii"
+                },
+                {
+                    "name": "Cerastium glomeratum",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Cerastium glomeratum"
+                },
+                {
+                    "name": "Cornus sanguinea",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Cornus sanguinea"
+                },
+                {
+                    "name": "Crepis sancta ssp.nemausensis",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Crepis sancta ssp.nemausensis"
+                },
+                {
+                    "name": "Dryopteris filix-mas",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Dryopteris filix-mas"
+                },
+                {
+                    "name": "Echium vulgare",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Echium vulgare"
+                },
+                {
+                    "name": "Equisetum arvense",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Equisetum arvense"
+                },
+                {
+                    "name": "Malva sylvestris",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Malva sylvestris"
+                },
+                {
+                    "name": "Medicago lupulina",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Medicago lupulina"
+                },
+                {
+                    "name": "Medicago sativa",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Medicago sativa"
+                },
+                {
+                    "name": "Papaver rhoeas",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Papaver rhoeas"
+                },
+                {
+                    "name": "Pteridium aquilinum",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Pteridium aquilinum"
+                },
+                {
+                    "name": "Reseda lutea",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Reseda lutea"
+                },
+                {
+                    "name": "Reseda luteola",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Reseda luteola"
+                },
+                {
+                    "name": "Scabiosa columbaria",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Scabiosa columbaria"
+                },
+                {
+                    "name": "Tripleurospermum perforatum",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Tripleurospermum perforatum"
+                },
+                {
+                    "name": "Vicia sativa",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Vicia sativa"
+                },
+                {
+                    "name": "Acer negundo",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Acer negundo"
+                },
+                {
+                    "name": "Alcea rosea",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Alcea rosea"
+                },
+                {
+                    "name": "Arenaria serpyllifolia",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Arenaria serpyllifolia"
+                },
+                {
+                    "name": "Asplenium ceterach",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Asplenium ceterach"
+                },
+                {
+                    "name": "Asplenium ruta-muraria",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Asplenium ruta-muraria"
+                },
+                {
+                    "name": "Cichorium intybus",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Cichorium intybus"
+                },
+                {
+                    "name": "Commelina communis",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Commelina communis"
+                },
+                {
+                    "name": "Cyrtomium falcatum",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Cyrtomium falcatum"
+                },
+                {
+                    "name": "Erigeron karvinskianus",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Erigeron karvinskianus"
+                },
+                {
+                    "name": "Erodium moschatum",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Erodium moschatum"
+                },
+                {
+                    "name": "Fallopia convolvulus",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Fallopia convolvulus"
+                },
+                {
+                    "name": "Fraxinus angustifolia",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Fraxinus angustifolia"
+                },
+                {
+                    "name": "Geranium molle",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Geranium molle"
+                },
+                {
+                    "name": "Heliotropium europaeum",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Heliotropium europaeum"
+                },
+                {
+                    "name": "Lunaria annua",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Lunaria annua"
+                },
+                {
+                    "name": "Lysimachia vulgaris",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Lysimachia vulgaris"
+                },
+                {
+                    "name": "Malva neglecta",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Malva neglecta"
+                },
+                {
+                    "name": "Morus alba",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Morus alba"
+                },
+                {
+                    "name": "Narcissus pseudonarcissus",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Narcissus pseudonarcissus"
+                },
+                {
+                    "name": "Oxalis corniculata",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Oxalis corniculata"
+                },
+                {
+                    "name": "Picris echioides",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Picris echioides"
+                },
+                {
+                    "name": "Polystichum setiferum",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Polystichum setiferum"
+                },
+                {
+                    "name": "Ranunculus ficaria",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Ranunculus ficaria"
+                },
+                {
+                    "name": "Senecio inaequidens",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Senecio inaequidens"
+                },
+                {
+                    "name": "Solanum pseudocapsicum",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Solanum pseudocapsicum"
+                },
+                {
+                    "name": "Veronica arvensis",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Veronica arvensis"
+                },
+                {
+                    "name": "Acanthus mollis",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Acanthus mollis"
+                },
+                {
+                    "name": "Adiantum capillus-veneris",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Adiantum capillus-veneris"
+                },
+                {
+                    "name": "Ailanthus altissima",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Ailanthus altissima"
+                },
+                {
+                    "name": "Ambrosia artemisifolia",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Ambrosia artemisifolia"
+                },
+                {
+                    "name": "Anthriscus caucalis",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Anthriscus caucalis"
+                },
+                {
+                    "name": "Arabidopsis thaliana",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Arabidopsis thaliana"
+                },
+                {
+                    "name": "Arrhenaterum elatius",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Arrhenaterum elatius"
+                },
+                {
+                    "name": "Bellis perennis",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Bellis perennis"
+                },
+                {
+                    "name": "Blackstonia perfoliata",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Blackstonia perfoliata"
+                },
+                {
+                    "name": "Cheiranthus cheiri",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Cheiranthus cheiri"
+                },
+                {
+                    "name": "Chelidonium majus",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Chelidonium majus"
+                },
+                {
+                    "name": "Consolida ajacis",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Consolida ajacis"
+                }
+            ]
+        },
+        {
+            "name": "nom_commun",
+            "facets": [
+                {
+                    "name": "Bec de Grue \u00e0 feuilles de cigu\u00eb",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Bec de Grue \u00e0 feuilles de cigu\u00eb"
+                },
+                {
+                    "name": "Buglosse des champs",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Buglosse des champs"
+                },
+                {
+                    "name": "Doradille capillaire",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Doradille capillaire"
+                },
+                {
+                    "name": "Doradille noire",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Doradille noire"
+                },
+                {
+                    "name": "Lotier pied de poule",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Lotier pied de poule"
+                },
+                {
+                    "name": "Mercuriale annuelle, foirelle",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Mercuriale annuelle, foirelle"
+                },
+                {
+                    "name": "Mol\u00e8ne \u00e0 fleurs denses",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Mol\u00e8ne \u00e0 fleurs denses"
+                },
+                {
+                    "name": "Orchis bouc",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Orchis bouc"
+                },
+                {
+                    "name": "Orpin de Palmer",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Orpin de Palmer"
+                },
+                {
+                    "name": "Polypode, r\u00e9glisse des bois",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Polypode, r\u00e9glisse des bois"
+                },
+                {
+                    "name": "R\u00e9s\u00e9da raiponce",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "R\u00e9s\u00e9da raiponce"
+                },
+                {
+                    "name": "Scolopendre, langue de cerf",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Scolopendre, langue de cerf"
+                },
+                {
+                    "name": "Sil\u00e8ne \u00e0 larges feuilles",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Sil\u00e8ne \u00e0 larges feuilles"
+                },
+                {
+                    "name": "Val\u00e9riane rouge",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Val\u00e9riane rouge"
+                },
+                {
+                    "name": "Ail de Naples",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Ail de Naples"
+                },
+                {
+                    "name": "Belle de nuit",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Belle de nuit"
+                },
+                {
+                    "name": "Dame de onze heures",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Dame de onze heures"
+                },
+                {
+                    "name": "Fenouil",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Fenouil"
+                },
+                {
+                    "name": "Gla\u00efeul des moissons",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Gla\u00efeul des moissons"
+                },
+                {
+                    "name": "Lamier amplexicaule",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Lamier amplexicaule"
+                },
+                {
+                    "name": "Sureau noir",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Sureau noir"
+                },
+                {
+                    "name": "Violette odorante",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Violette odorante"
+                },
+                {
+                    "name": "Amandier",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Amandier"
+                },
+                {
+                    "name": "Arbre de Jud\u00e9e",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Arbre de Jud\u00e9e"
+                },
+                {
+                    "name": "Bourache",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Bourache"
+                },
+                {
+                    "name": "Chardon \u00e0 capitules denses",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Chardon \u00e0 capitules denses"
+                },
+                {
+                    "name": "Cotylet, nombril de V\u00e9nus",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Cotylet, nombril de V\u00e9nus"
+                },
+                {
+                    "name": "Figuier",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Figuier"
+                },
+                {
+                    "name": "Gal\u00e9ga officinal",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Gal\u00e9ga officinal"
+                },
+                {
+                    "name": "Grande salicaire",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Grande salicaire"
+                },
+                {
+                    "name": "Gueule de loup, muflaude",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Gueule de loup, muflaude"
+                },
+                {
+                    "name": "Millepertuis perfor\u00e9",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Millepertuis perfor\u00e9"
+                },
+                {
+                    "name": "Muscari n\u00e9glig\u00e9",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Muscari n\u00e9glig\u00e9"
+                },
+                {
+                    "name": "Orchis pyramidal",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Orchis pyramidal"
+                },
+                {
+                    "name": "Panicaut des champs, chardon Roland, chardon \u00e0 cent t\u00eates",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Panicaut des champs, chardon Roland, chardon \u00e0 cent t\u00eates"
+                },
+                {
+                    "name": "Paulownia",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Paulownia"
+                },
+                {
+                    "name": "Raisin d'am\u00e9rique",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Raisin d'am\u00e9rique"
+                },
+                {
+                    "name": "Robinier faux-acacia",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Robinier faux-acacia"
+                },
+                {
+                    "name": "Sarriette n\u00e9p\u00e9ta",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Sarriette n\u00e9p\u00e9ta"
+                },
+                {
+                    "name": "Spergulaire violette",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Spergulaire violette"
+                },
+                {
+                    "name": "Tortelle",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Tortelle"
+                },
+                {
+                    "name": "Tr\u00e8fle des champs",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Tr\u00e8fle des champs"
+                },
+                {
+                    "name": "Tr\u00e8fle rampant",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Tr\u00e8fle rampant"
+                },
+                {
+                    "name": "Urosperme de Dalechamp",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Urosperme de Dalechamp"
+                },
+                {
+                    "name": "V\u00e9ronique \u00e0 feuilles de lierre",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "V\u00e9ronique \u00e0 feuilles de lierre"
+                },
+                {
+                    "name": "Araujia porte soie",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Araujia porte soie"
+                },
+                {
+                    "name": "Arbre aux papillons",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Arbre aux papillons"
+                },
+                {
+                    "name": "Camomille inodore",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Camomille inodore"
+                },
+                {
+                    "name": "Coquelicot, ponceau",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Coquelicot, ponceau"
+                },
+                {
+                    "name": "Cornouiller sanguin",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Cornouiller sanguin"
+                },
+                {
+                    "name": "Cr\u00e9pide de N\u00efmes",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Cr\u00e9pide de N\u00efmes"
+                },
+                {
+                    "name": "C\u00e9raiste agglom\u00e9r\u00e9",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "C\u00e9raiste agglom\u00e9r\u00e9"
+                },
+                {
+                    "name": "Foug\u00e8re m\u00e2le",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Foug\u00e8re m\u00e2le"
+                },
+                {
+                    "name": "Foug\u00e8re-aigle",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Foug\u00e8re-aigle"
+                },
+                {
+                    "name": "Gaude",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Gaude"
+                },
+                {
+                    "name": "Luzerne comestible",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Luzerne comestible"
+                },
+                {
+                    "name": "Mauve commune",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Mauve commune"
+                },
+                {
+                    "name": "Minette",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Minette"
+                },
+                {
+                    "name": "Pr\u00eale des champs",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Pr\u00eale des champs"
+                },
+                {
+                    "name": "R\u00e9s\u00e9da jaune",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "R\u00e9s\u00e9da jaune"
+                },
+                {
+                    "name": "Scabieuse",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Scabieuse"
+                },
+                {
+                    "name": "Vesce cultiv\u00e9e",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Vesce cultiv\u00e9e"
+                },
+                {
+                    "name": "Vip\u00e9rine commune",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Vip\u00e9rine commune"
+                },
+                {
+                    "name": "Aspidie falciforme",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Aspidie falciforme"
+                },
+                {
+                    "name": "Chicor\u00e9e",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Chicor\u00e9e"
+                },
+                {
+                    "name": "C\u00e9t\u00e9rach des officines",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "C\u00e9t\u00e9rach des officines"
+                },
+                {
+                    "name": "Doradille des murs, sauve-vie",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Doradille des murs, sauve-vie"
+                },
+                {
+                    "name": "Erable n\u00e9gundo",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Erable n\u00e9gundo"
+                },
+                {
+                    "name": "Ficaire",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Ficaire"
+                },
+                {
+                    "name": "Fr\u00eane",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Fr\u00eane"
+                },
+                {
+                    "name": "G\u00e9ranium mou",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "G\u00e9ranium mou"
+                },
+                {
+                    "name": "Herbe au musc",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Herbe au musc"
+                },
+                {
+                    "name": "H\u00e9liotrope d'Europe",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "H\u00e9liotrope d'Europe"
+                },
+                {
+                    "name": "Jonquille",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Jonquille"
+                },
+                {
+                    "name": "Lysimaque commune",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Lysimaque commune"
+                },
+                {
+                    "name": "Mis\u00e8re commune",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Mis\u00e8re commune"
+                },
+                {
+                    "name": "Monnaie du Pape, herbe \u00e0 l'hostie",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Monnaie du Pape, herbe \u00e0 l'hostie"
+                },
+                {
+                    "name": "M\u00fbrier blanc",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "M\u00fbrier blanc"
+                },
+                {
+                    "name": "Oxalis jaune",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Oxalis jaune"
+                },
+                {
+                    "name": "Petite mauve",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Petite mauve"
+                },
+                {
+                    "name": "Picride vip\u00e9rine",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Picride vip\u00e9rine"
+                },
+                {
+                    "name": "Polystic \u00e0 soies",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Polystic \u00e0 soies"
+                },
+                {
+                    "name": "Pommier d'amour",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Pommier d'amour"
+                },
+                {
+                    "name": "Rose-tr\u00e9mi\u00e8re",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Rose-tr\u00e9mi\u00e8re"
+                },
+                {
+                    "name": "Sabline \u00e0 feuilles de serpolet",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Sabline \u00e0 feuilles de serpolet"
+                },
+                {
+                    "name": "S\u00e9ne\u00e7on du Cap",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "S\u00e9ne\u00e7on du Cap"
+                },
+                {
+                    "name": "Vergerette de Karvinski",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Vergerette de Karvinski"
+                },
+                {
+                    "name": "Vrill\u00e9e liseron",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Vrill\u00e9e liseron"
+                },
+                {
+                    "name": "V\u00e9ronique des pr\u00e9s",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "V\u00e9ronique des pr\u00e9s"
+                },
+                {
+                    "name": "Acanthe",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Acanthe"
+                },
+                {
+                    "name": "Ailanthe, Faux vernis du Japon",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Ailanthe, Faux vernis du Japon"
+                },
+                {
+                    "name": "Alth\u00e9a",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Alth\u00e9a"
+                },
+                {
+                    "name": "Ambroisie",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Ambroisie"
+                },
+                {
+                    "name": "Arabette",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Arabette"
+                },
+                {
+                    "name": "Avoine \u00e9lev\u00e9e, Fromental",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Avoine \u00e9lev\u00e9e, Fromental"
+                },
+                {
+                    "name": "Balsamine \u00e0 petites fleurs",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Balsamine \u00e0 petites fleurs"
+                },
+                {
+                    "name": "Berce faux panais",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Berce faux panais"
+                },
+                {
+                    "name": "Capillaire de Montpellier",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Capillaire de Montpellier"
+                },
+                {
+                    "name": "Carotte sauvage",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Carotte sauvage"
+                },
+                {
+                    "name": "Cerfeuil commun",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Cerfeuil commun"
+                }
+            ]
+        },
+        {
+            "name": "famille",
+            "facets": [
+                {
+                    "name": "Asteraceae",
+                    "count": 348,
+                    "state": "displayed",
+                    "path": "Asteraceae"
+                },
+                {
+                    "name": "Fabaceae",
+                    "count": 234,
+                    "state": "displayed",
+                    "path": "Fabaceae"
+                },
+                {
+                    "name": "Poaceae",
+                    "count": 212,
+                    "state": "displayed",
+                    "path": "Poaceae"
+                },
+                {
+                    "name": "Scrophulariaceae",
+                    "count": 149,
+                    "state": "displayed",
+                    "path": "Scrophulariaceae"
+                },
+                {
+                    "name": "Brassicaceae",
+                    "count": 144,
+                    "state": "displayed",
+                    "path": "Brassicaceae"
+                },
+                {
+                    "name": "Lamiaceae",
+                    "count": 131,
+                    "state": "displayed",
+                    "path": "Lamiaceae"
+                },
+                {
+                    "name": "Apiaceae",
+                    "count": 113,
+                    "state": "displayed",
+                    "path": "Apiaceae"
+                },
+                {
+                    "name": "Rosaceae",
+                    "count": 97,
+                    "state": "displayed",
+                    "path": "Rosaceae"
+                },
+                {
+                    "name": "Caryophyllaceae",
+                    "count": 90,
+                    "state": "displayed",
+                    "path": "Caryophyllaceae"
+                },
+                {
+                    "name": "Boraginaceae",
+                    "count": 77,
+                    "state": "displayed",
+                    "path": "Boraginaceae"
+                },
+                {
+                    "name": "Euphorbiaceae",
+                    "count": 64,
+                    "state": "displayed",
+                    "path": "Euphorbiaceae"
+                },
+                {
+                    "name": "Solanaceae",
+                    "count": 63,
+                    "state": "displayed",
+                    "path": "Solanaceae"
+                },
+                {
+                    "name": "Cyperaceae",
+                    "count": 57,
+                    "state": "displayed",
+                    "path": "Cyperaceae"
+                },
+                {
+                    "name": "Papaveraceae",
+                    "count": 56,
+                    "state": "displayed",
+                    "path": "Papaveraceae"
+                },
+                {
+                    "name": "Polygonaceae",
+                    "count": 56,
+                    "state": "displayed",
+                    "path": "Polygonaceae"
+                },
+                {
+                    "name": "Malvaceae",
+                    "count": 55,
+                    "state": "displayed",
+                    "path": "Malvaceae"
+                },
+                {
+                    "name": "Pteridophyte",
+                    "count": 55,
+                    "state": "displayed",
+                    "path": "Pteridophyte"
+                },
+                {
+                    "name": "Crassulaceae",
+                    "count": 53,
+                    "state": "displayed",
+                    "path": "Crassulaceae"
+                },
+                {
+                    "name": "Geraniaceae",
+                    "count": 52,
+                    "state": "displayed",
+                    "path": "Geraniaceae"
+                },
+                {
+                    "name": "Orchidaceae",
+                    "count": 49,
+                    "state": "displayed",
+                    "path": "Orchidaceae"
+                },
+                {
+                    "name": "Ranunculaceae",
+                    "count": 45,
+                    "state": "displayed",
+                    "path": "Ranunculaceae"
+                },
+                {
+                    "name": "Amaryllidaceae",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "Amaryllidaceae"
+                },
+                {
+                    "name": "Liliaceae",
+                    "count": 41,
+                    "state": "displayed",
+                    "path": "Liliaceae"
+                },
+                {
+                    "name": "Violaceae",
+                    "count": 32,
+                    "state": "displayed",
+                    "path": "Violaceae"
+                },
+                {
+                    "name": "Resedaceae",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "Resedaceae"
+                },
+                {
+                    "name": "Onagraceae",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "Onagraceae"
+                },
+                {
+                    "name": "Rubiaceae",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "Rubiaceae"
+                },
+                {
+                    "name": "Sapindaceae",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "Sapindaceae"
+                },
+                {
+                    "name": "Iridaceae",
+                    "count": 27,
+                    "state": "displayed",
+                    "path": "Iridaceae"
+                },
+                {
+                    "name": "Oleaceae",
+                    "count": 27,
+                    "state": "displayed",
+                    "path": "Oleaceae"
+                },
+                {
+                    "name": "Chenopodiaceae",
+                    "count": 25,
+                    "state": "displayed",
+                    "path": "Chenopodiaceae"
+                },
+                {
+                    "name": "Caprifoliaceae",
+                    "count": 24,
+                    "state": "displayed",
+                    "path": "Caprifoliaceae"
+                },
+                {
+                    "name": "Salicaceae",
+                    "count": 24,
+                    "state": "displayed",
+                    "path": "Salicaceae"
+                },
+                {
+                    "name": "Dipsacaceae",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "Dipsacaceae"
+                },
+                {
+                    "name": "Moraceae",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "Moraceae"
+                },
+                {
+                    "name": "Primulaceae",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "Primulaceae"
+                },
+                {
+                    "name": "Equisetaceae",
+                    "count": 21,
+                    "state": "displayed",
+                    "path": "Equisetaceae"
+                },
+                {
+                    "name": "Ulmaceae",
+                    "count": 20,
+                    "state": "displayed",
+                    "path": "Ulmaceae"
+                },
+                {
+                    "name": "Valerianaceae",
+                    "count": 19,
+                    "state": "displayed",
+                    "path": "Valerianaceae"
+                },
+                {
+                    "name": "Dryopteridaceae",
+                    "count": 18,
+                    "state": "displayed",
+                    "path": "Dryopteridaceae"
+                },
+                {
+                    "name": "Plantaginaceae",
+                    "count": 18,
+                    "state": "displayed",
+                    "path": "Plantaginaceae"
+                },
+                {
+                    "name": "Urticaceae",
+                    "count": 18,
+                    "state": "displayed",
+                    "path": "Urticaceae"
+                },
+                {
+                    "name": "Amaranthaceae",
+                    "count": 17,
+                    "state": "displayed",
+                    "path": "Amaranthaceae"
+                },
+                {
+                    "name": "Hypericaceae",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Hypericaceae"
+                },
+                {
+                    "name": "Verbenaceae",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Verbenaceae"
+                },
+                {
+                    "name": "Aspleniaceae",
+                    "count": 15,
+                    "state": "displayed",
+                    "path": "Aspleniaceae"
+                },
+                {
+                    "name": "Balsaminaceae",
+                    "count": 15,
+                    "state": "displayed",
+                    "path": "Balsaminaceae"
+                },
+                {
+                    "name": "Lythraceae",
+                    "count": 15,
+                    "state": "displayed",
+                    "path": "Lythraceae"
+                },
+                {
+                    "name": "Apocynaceae",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "Apocynaceae"
+                },
+                {
+                    "name": "Campanulaceae",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "Campanulaceae"
+                },
+                {
+                    "name": "Fagaceae",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "Fagaceae"
+                },
+                {
+                    "name": "Asclepiadaceae",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "Asclepiadaceae"
+                },
+                {
+                    "name": "Gentianaceae",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "Gentianaceae"
+                },
+                {
+                    "name": "Juncaceae",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "Juncaceae"
+                },
+                {
+                    "name": "Oxalidaceae",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "Oxalidaceae"
+                },
+                {
+                    "name": "Convolvulaceae",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Convolvulaceae"
+                },
+                {
+                    "name": "Polypodiaceae",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Polypodiaceae"
+                },
+                {
+                    "name": "Betulaceae",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Betulaceae"
+                },
+                {
+                    "name": "Commelinaceae",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Commelinaceae"
+                },
+                {
+                    "name": "Cucurbitaceae",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Cucurbitaceae"
+                },
+                {
+                    "name": "Nyctaginaceae",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Nyctaginaceae"
+                },
+                {
+                    "name": "Orobanchaceae",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Orobanchaceae"
+                },
+                {
+                    "name": "Cornaceae",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Cornaceae"
+                },
+                {
+                    "name": "Lemnaceae",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Lemnaceae"
+                },
+                {
+                    "name": "Phytolaccaceae",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Phytolaccaceae"
+                },
+                {
+                    "name": "Asparagaceae",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Asparagaceae"
+                },
+                {
+                    "name": "Buddlejaceae",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Buddlejaceae"
+                },
+                {
+                    "name": "Linaceae",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "Linaceae"
+                },
+                {
+                    "name": "Aspidiaceae",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Aspidiaceae"
+                },
+                {
+                    "name": "Hydrocharitaceae",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Hydrocharitaceae"
+                },
+                {
+                    "name": "Acanthaceae",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Acanthaceae"
+                },
+                {
+                    "name": "Araliaceae",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Araliaceae"
+                },
+                {
+                    "name": "Bignoniaceae",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Bignoniaceae"
+                },
+                {
+                    "name": "Platanaceae",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Platanaceae"
+                },
+                {
+                    "name": "Simaroubaceae",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Simaroubaceae"
+                },
+                {
+                    "name": "Vitaceae",
+                    "count": 7,
+                    "state": "displayed",
+                    "path": "Vitaceae"
+                },
+                {
+                    "name": "Berberidaceae",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Berberidaceae"
+                },
+                {
+                    "name": "Juglandaceae",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Juglandaceae"
+                },
+                {
+                    "name": "Passifloraceae",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Passifloraceae"
+                },
+                {
+                    "name": "Rhamnaceae",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Rhamnaceae"
+                },
+                {
+                    "name": "Saxifragaceae",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Saxifragaceae"
+                },
+                {
+                    "name": "Alismataceae",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "Alismataceae"
+                },
+                {
+                    "name": "Aristolochiaceae",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "Aristolochiaceae"
+                },
+                {
+                    "name": "Cannabinaceae",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "Cannabinaceae"
+                },
+                {
+                    "name": "Corylaceae",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "Corylaceae"
+                },
+                {
+                    "name": "Potamogetonaceae",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "Potamogetonaceae"
+                },
+                {
+                    "name": "Taxaceae",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "Taxaceae"
+                },
+                {
+                    "name": "Araceae",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Araceae"
+                },
+                {
+                    "name": "Arecaceae",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Arecaceae"
+                },
+                {
+                    "name": "Basellaceae",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Basellaceae"
+                },
+                {
+                    "name": "Ceratophyllaceae",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Ceratophyllaceae"
+                },
+                {
+                    "name": "Elaeagnaceae",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Elaeagnaceae"
+                },
+                {
+                    "name": "Ranuculaceae",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Ranuculaceae"
+                },
+                {
+                    "name": "Lauraceae",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Lauraceae"
+                },
+                {
+                    "name": "Mesembryanthemaceae",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Mesembryanthemaceae"
+                },
+                {
+                    "name": "Naidaceae",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Naidaceae"
+                },
+                {
+                    "name": "Pittosporaceae",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Pittosporaceae"
+                },
+                {
+                    "name": "Tiliaceae",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Tiliaceae"
+                },
+                {
+                    "name": "Anacardiaceae",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Anacardiaceae"
+                },
+                {
+                    "name": "Athyriaceae",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Athyriaceae"
+                }
+            ]
+        },
+        {
+            "name": "date",
+            "facets": [
+                {
+                    "name": "2004",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "2004"
+                },
+                {
+                    "name": "2005",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "2005"
+                },
+                {
+                    "name": "2006",
+                    "count": 31,
+                    "state": "displayed",
+                    "path": "2006"
+                },
+                {
+                    "name": "2007",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "2007"
+                },
+                {
+                    "name": "2008",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "2008"
+                },
+                {
+                    "name": "2009",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "2009"
+                },
+                {
+                    "name": "2010",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "2010"
+                },
+                {
+                    "name": "2011",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "2011"
+                },
+                {
+                    "name": "2012",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "2012"
+                },
+                {
+                    "name": "2013",
+                    "count": 19,
+                    "state": "displayed",
+                    "path": "2013"
+                },
+                {
+                    "name": "2014",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "2014"
+                },
+                {
+                    "name": "2015",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "2015"
+                },
+                {
+                    "name": "2016",
+                    "count": 20,
+                    "state": "displayed",
+                    "path": "2016"
+                },
+                {
+                    "name": "2017",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "2017"
+                },
+                {
+                    "name": "2018",
+                    "count": 9,
+                    "state": "displayed",
+                    "path": "2018"
+                },
+                {
+                    "name": "2019",
+                    "count": 85,
+                    "state": "displayed",
+                    "path": "2019"
+                },
+                {
+                    "name": "2020",
+                    "count": 73,
+                    "state": "displayed",
+                    "path": "2020"
+                }
+            ]
+        }
+    ]
+}
